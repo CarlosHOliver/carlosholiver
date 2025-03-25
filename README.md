@@ -1,10 +1,6 @@
 
 # Carlos Henrique - Desenvolvedor Full Stack
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Tecnologias+Modernas;Soluções+Inovadoras" alt="Typing SVG" />
-</div>
-
 ## 👋 Sobre Mim
 
 Olá! Me chamo Carlos, sou desenvolvedor full stack apaixonado por tecnologia e soluções inovadoras. Com experiência em diversas tecnologias e frameworks, busco sempre aprender e me adaptar aos novos desafios do mundo da programação.
@@ -53,28 +49,26 @@ Olá! Me chamo Carlos, sou desenvolvedor full stack apaixonado por tecnologia e 
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHOliver&layout=compact&theme=dracula&hide_border=true)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=CarlosHOliver&theme=dracula&hide_border=true)
 </div>
 
 ## 🚀 Destaques
 
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-| [🔗 Projeto 1](link) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) | Descrição breve do projeto 1 |
-| [🔗 Projeto 2](link) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) | Descrição breve do projeto 2 |
-| [🔗 Projeto 3](link) | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) | Descrição breve do projeto 3 |
+| [🔗 IA FAEN BOT](https://github.com/CarlosHOliver/IAsminFaenBot) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-092E20?logo=telegram&logoColor=white) | Inspiração para um chatbot de atendimento |
+| [🔗 Precifica](https://github.com/CarlosHOliver/Precifica) | ![PHP](https://img.shields.io/badge/-Php-ED8B00?logo=php&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-6DB33F?logo=css&logoColor=white) | Sistema de Precificação para Microempreendedor |
 
 ## 📫 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carlosoliver/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/CarlosHOliver">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:carlosholiver+spam@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
